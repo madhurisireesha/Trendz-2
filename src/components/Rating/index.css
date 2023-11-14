@@ -1,0 +1,10 @@
+.ratingcontainer{
+    width:25vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.rating{
+    width:13vw;
+    height:6vh;
+}
