@@ -1,0 +1,15 @@
+.catlist{
+    display: flex;
+    flex-direction: column;
+  
+
+}
+button{
+    background: none;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    color:rgb(122, 194, 239);
+    font-size: 20px;
+
+}
