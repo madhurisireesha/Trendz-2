@@ -1,0 +1,15 @@
+.homecontainer{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.shopbut{
+    background-color: blue;
+    outline:none;
+    border: none;
+    border-radius: 5px;
+    padding:10px;
+    color:white;
+    cursor: pointer;
+}
