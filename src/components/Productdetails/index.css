@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    flex-direction: row;
+   
+   justify-content: space-around;
+}
+.two{
+    margin-left: 20px;
+}
+.pimage{
+    max-height:480px;
+    width:40vw;
+    border-radius: 10px;
+}
+.three{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+.rat{
+    background-color: rgb(52, 52, 235);
+    color:white;
+    font-weight: bold;
+    padding:8px;
+    border-radius: 10px;
+}
+.available{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+}
+.count{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.similarcontainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
