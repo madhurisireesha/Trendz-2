@@ -1,0 +1,26 @@
+.similarproducts{
+    display: flex;
+    flex-direction: row;
+    
+}
+.imageone{
+    height:18vh;
+    width:10vw;
+    border-radius: 5px;
+}
+.protwo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.r{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+    background-color: blue;
+    color:white;
+    border-radius: 5px;
+    padding: 2px;
+}
