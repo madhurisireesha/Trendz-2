@@ -1,0 +1,43 @@
+.prolist1{
+    display: flex;
+    flex-direction: row;
+    
+    flex-wrap: wrap;
+    height:80vh;
+    overflow: auto;
+   
+}
+.first{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.butt{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 100vh;
+   
+    cursor: pointer;
+}
+.search{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   width:20vw;
+}
+input{
+    width:25vw;
+    height:5vh;
+    border-radius:15px;
+    border:2px solid black;
+    outline:none;
+    margin-left: 25px;
+}
+.clear{
+    background-color: rgb(15, 15, 69);
+    color:white;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
